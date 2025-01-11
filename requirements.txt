@@ -1,0 +1,4 @@
+aiohttp==3.9.1
+ttkthemes==3.2.2
+pyperclip==1.8.2
+selenium==4.16.0
